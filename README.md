@@ -21,8 +21,7 @@ This repository contains the source code and data used for the **ICSE 2022** pap
 ![Representative Data Science Pipeline](/pipeline.jpg)
 
 **The Artifact:** This artifact is divided into the following three main sections. Only the *DS pipelines in-the-small* contains software that requires installation. The other two sections contains additional and detailed data used in the paper. We also published the artifact in Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5866584.svg)](https://doi.org/10.5281/zenodo.5866584)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5886603.svg)](https://doi.org/10.5281/zenodo.5886603)
 
 ## DS Pipelines in Theory
 

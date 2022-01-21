@@ -5,7 +5,7 @@ We apply for the three badges *available*, *functional*, and *reusable*. Here ar
 ### Available
 The artifact is publicly shared in the GitHub repository: `https://github.com/sumonbis/DS-Pipeline/`.
 Furthermore, the latest release is published in Zenodo and a DOI is obtained:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5866584.svg)](https://doi.org/10.5281/zenodo.5866584)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5886603.svg)](https://doi.org/10.5281/zenodo.5886603)
 
 ### Functional and Reusable
 The artifact contains both the data and software component. All the detailed and additional data for the paper in shared in the artifact. We also provided detailed instructions for installation, environment setup, and running the tool. Furthermore we shared the following necessary components of the artifact:
