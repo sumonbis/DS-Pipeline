@@ -1,17 +1,19 @@
 # Installation and Usage
 
-The source code is written in Python 3 and tested using Python 3.7 on Mac OS. It is recommended to use a virtual Python environment for this setup. Furthermore, we used bash shell scripts to automate running benchmark and Python scripts.
+The source code is written in Python 3 and tested using Python 3.7 on Mac OS and Ubuntu virtual machine (ICSE'22). It is recommended to use a virtual Python environment for this setup. Furthermore, we used bash shell scripts to automate running benchmark and Python scripts.
 
 ### Environment Setup
 Follow the instructions below to set up the environment and run the source code.
 
 Follow these steps to create a virtual environment:
 
-1. Install Anaconda [[installation guide](https://docs.anaconda.com/anaconda/install/)].
+1. Install Anaconda [[installation guide](https://docs.anaconda.com/anaconda/install/)]. For new installation, run `conda init <SHELL>`.
 
 2. Create a new Python environment. Run on the command line:
 ```
 conda create --name pipeline python=3.7
+```
+```
 conda activate pipeline
 ```
 The shell should look like: `(pipeline) $ `. Now, continue to step 2 and install packages using this shell.
