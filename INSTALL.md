@@ -7,7 +7,7 @@ Follow the instructions below to set up the environment and run the source code.
 
 Follow these steps to create a virtual environment:
 
-1. Install Anaconda [[installation guide](https://docs.anaconda.com/anaconda/install/)]. For new installation, run `conda init <SHELL>`.
+1. Install Anaconda [[installation guide](https://docs.anaconda.com/anaconda/install/)]. For new installation, run `conda init <SHELL>`. Similiarly, you can also use miniconda (https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links).
 
 2. Create a new Python environment. Run on the command line:
 ```
@@ -21,7 +21,7 @@ When you are done with the experiments, you can exit this virtual environment by
 
 3. Clone this repository.
 ```
-git clone https://github.com/anonymous-authorss/DS-Pipeline.git
+git clone https://github.com/sumonbis/DS-Pipeline.git
 ```
 
 4. Navigate to the cloned repository: `cd DS-Pipeline/` and install required packages:
